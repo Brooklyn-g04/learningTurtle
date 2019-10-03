@@ -28,3 +28,4 @@ print("She's %d inches tall." % myHeight)
 print("Shes's got %s eyes and %s hair." % (myEyes, myHair))
 print("Her teeth \tare usually %s depending \n on the coffee." % myTeeth)
 print("if i add %d and %d, i get %d" % (myAge, myHeight, myAge + myHeight))
+/
